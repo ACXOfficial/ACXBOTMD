@@ -1,15 +1,6 @@
-#      ACXBOTMD
-<p align = center> 
-<img src="https://drive.google.com/file/d/1AmhL-nbofOTfHGfxyCtwO3pJmnttttvA/view?usp=drivesdk" alt="IMG" width="250" height="250"/>
-</p>
-
-## QR Link
-   
-   <a href="https://replit.com/@AlphaCyber-X/ACX-BOT-MD">Click Here</a>
-   and scan the QR code.
 ##       ACX BOT MD
 
-<p align = center>   <img src="https://drive.google.com/file/d/1AmhL-nbofOTfHGfxyCtwO3pJmnttttvA/view?usp=drivesdk" alt="GIF" width="250" height="250"/> </p>
+<p align = center>   <img src="https://github.com/ACXOfficial/ACXBOTMD/blob/main/ACXMedia/image/20230215_093828.jpg" alt="GIF" width="250" height="250"/> </p>
 
 
 ## QR link
