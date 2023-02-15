@@ -23,12 +23,16 @@
 
 6. Deploy And Enjoy
 
+</br>
 <b>ALL THE CREDITS GOES TO ORIGINAL REPO OWNER DGNEON (CHEEMS BOT-MD)</b>
+</br>
 
 ##   THANKS TO
 <ul>
    <li>
-   SAMITH for developing and bug testing.
-   THARUU X for graphics and github settings.
+   <b>SAMITH</b> for developing and bug testing.
+   </li>
+   <li>
+   <b>THARUU X</b> for graphics and github settings.
    </li>
 </ul>
