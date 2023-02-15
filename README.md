@@ -1,5 +1,7 @@
 #      ACXBOTMD
-<p align = center> <img src="https://t.me/acxofc/13" alt="IMG" width="250" height="250"/></p>
+<p align = center> 
+<img src="https://drive.google.com/file/d/1AmhL-nbofOTfHGfxyCtwO3pJmnttttvA/view?usp=drivesdk" alt="IMG" width="250" height="250"/>
+</p>
 
 ## QR Link
    
