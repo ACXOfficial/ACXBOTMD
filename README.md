@@ -18,12 +18,14 @@
 ## QR link
 ```https://replit.com/AlphaCyber-X/ACX-BOT-MD```
 
-## Deploy Link Template 
+## Deploy Options
 ```https://heroku.com/deploy?template=https://github.com/ACXOfficial/ACXBOTMD```
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=jDDNQq)
 
 [`Deploy on Koyeb`](https://app.koyeb.com/)
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
