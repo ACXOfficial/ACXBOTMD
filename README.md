@@ -7,6 +7,13 @@
    <img src="http://readme-typing-svg.herokuapp.com?color=9040fb&center=true&vCenter=true&multiline=false&lines=Powered+by+AlphaCyber-X" alt="">
 </p>
 
+<p align="center">
+<a href="https://wa.me/+94789731507"><img src="https://img.shields.io/badge/Contact Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</br>
+<a href="https://wa.me/+94768480793"><img src="https://img.shields.io/badge/Contact Developer-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</br>
+<a href="https://chat.whatsapp.com/KeNF9uBAAcG8dFr4RG5pGr"><img src="https://img.shields.io/badge/Join ACX-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
 
 ## QR link
 ```https://replit.com/AlphaCyber-X/ACX-BOT-MD```
