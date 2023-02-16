@@ -1,6 +1,6 @@
 ##       ACX BOT MD
 
-<p align = center>   <img src="https://github.com/ACXOfficial/ACXBOTMD/blob/main/ACXMedia/image/20230215_093828.jpg" alt="GIF" width="250" height="250"/> </p>
+<p align = center>   <img src="https://github.com/ACXOfficial/ACXBOTMD/blob/main/ACXMedia/image/20230216_213317.jpg" alt="GIF" width="250" height="250"/> </p>
 
 <p align="center">
    <img src="http://readme-typing-svg.herokuapp.com?color=9040fb&center=true&vCenter=true&multiline=false&lines=ACX+BOT+MD" alt="">
