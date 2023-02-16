@@ -41,6 +41,8 @@
 
 5. Deploy And Enjoy
 
+## Credits
+
 </br>
 <b>ALL THE CREDITS GOES TO ORIGINAL REPO OWNER DGNEON (CHEEMS BOT-MD)</b>
 </br>
@@ -49,7 +51,7 @@
 <ul>
    <li>
      <b> 
-       <a href="https://github.com/THARUUX">SAMITH</a>
+       <a href="https://github.com/samith65610">SAMITH</a>
      </b> for developing and bug testing.
    </li>
    <li>
