@@ -48,9 +48,13 @@
 ##   THANKS TO
 <ul>
    <li>
-   <b>SAMITH</b> for developing and bug testing.
+     <b> 
+       <a href="https://github.com/THARUUX">SAMITH</a>
+     </b> for developing and bug testing.
    </li>
    <li>
-   <b>THARUU X</b> for graphics and github settings.
+     <b>
+       <a href="https://github.com/THARUUX">THARUU X</a>
+     </b> for graphics and github settings.
    </li>
 </ul>
