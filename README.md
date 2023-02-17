@@ -33,7 +33,7 @@
 
 ## STEPS
 
-1. Click [SCAN](https://replit.com/AlphaCyber-X/ACX-BOT-MD) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@AlphaCyber-X/ACX-BOT-MD?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. You will get a long text that needs after Frist step (session.json)
 
