@@ -16,7 +16,9 @@
 </p>
 
 ## QR link
-```https://replit.com/AlphaCyber-X/ACX-BOT-MD```
+```https://replit.com/AlphaCyber-X/ACX-BOT-MD?v=1``` 
+</br>
+[![Scan QR](https://github.com/ACXOfficial/ACXBOTMD/blob/main/ACXMedia/image/download.png)](https://replit.com/AlphaCyber-X/ACX-BOT-MD?v=1)
 
 ## Deploy Options
 ```https://heroku.com/deploy?template=https://github.com/ACXOfficial/ACXBOTMD```
